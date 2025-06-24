@@ -34,8 +34,29 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexcarvalho&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcarvalho&layout=compact&langs_count=7&theme=radical"/>
+  <!-- Estatísticas gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexcarvalho&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcarvalho&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
+
+---
+
+## 📈 Atividade Recente
+
+<div align="center">
+  <!-- Gráfico de contribuição -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexcarvalho&theme=tokyo-night" alt="Gráfico de atividades do GitHub" />
+</div>
+
+---
+
+## 🐍 Snake de Contribuições
+
+<div align="center">
+  <!-- Animação da cobrinha (requer setup com GitHub Actions) -->
+  <img src="https://github.com/alexcarvalho/alexcarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 ---
