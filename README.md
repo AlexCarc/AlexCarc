@@ -43,16 +43,8 @@
 ## 📫 Contato
 
 - 🌐 Portfólio: [em breve!]
-- 💼 LinkedIn: [linkedin.com/in/seulink](https://linkedin.com/in/seulink)
-- 📧 Email: seuemail@gmail.com
-
----
-
-## ✨ Curiosidades
-
-- 🕔 Acordo às 5h para ir à academia antes do trabalho
-- 📚 Já lecionei cursos de Excel, Design Gráfico e Programação Web
-- 🤝 Gosto de ajudar outras pessoas a aprender tecnologia
+- 💼 LinkedIn: [linkedin.com/in/https://www.linkedin.com/in/alex-carvalho2005/)
+- 📧 Email: alexcarvalhoacoficial00@gmail.com
 
 ---
 
