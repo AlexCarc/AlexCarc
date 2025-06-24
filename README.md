@@ -2,18 +2,17 @@
 <h1 align="center">Olá, eu sou o Alex Carvalho 👋</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Front-End em formação | Estudante de ADS | Apaixonado por tecnologia e educação  
+  🚀 Desenvolvedor Full-Stack | Professor de Programação Web | Apaixonado por Tecnologia e Educação  
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (4º semestre - Faculdade Anhanguera)
-- 🧠 Estudando C#, Python, HTML, CSS, JavaScript e frameworks modernos
-- 💼 Buscando oportunidades para atuar como desenvolvedor júnior
-- 🌍 Planejando me mudar para **Portugal** em breve e trabalhar na área de TI
-- 🎯 Objetivo: me especializar em **Desenvolvimento Front-End** e construir interfaces incríveis
+- 🎓 **Análise e Desenvolvimento de Sistemas** (2023 / 2025 - Faculdade Anhanguera)
+- 🧠 Especializando-se em Desenvolvimento Full-Stack, com foco nas seguintes tecnologias: HTML, CSS, Git, GitHub, JavaScript, Node.js, MongoDB,     React e TypeScript.
+- 💼 Atualmente atuo como instrutor de Programação Web, oferecendo aulas práticas e teóricas sobre desenvolvimento Full-Stack.
+- 🎯 Buscando oportunidades para atuar como desenvolvedor Júnior.
 
 ---
 
