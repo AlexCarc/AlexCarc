@@ -1,5 +1,5 @@
 <!-- Banner ou frase de destaque -->
-<h1 align="center">Olá, eu sou o Alex Carvalho 👋</h1>
+<h1 align="center">Olá, eu sou Alex Carvalho 👋</h1>
 
 <p align="center">
   🚀 Desenvolvedor Full-Stack | Professor de Programação Web | Apaixonado por Tecnologia e Educação  
