@@ -14,17 +14,19 @@ Este é o meu espaço onde passo a maior parte do tempo, transformando imaginaç
 
 ## 🌐 Conecte-se comigo:
 <p align="left">
-  <a href="https://www.instagram.com/seuinstagram" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:alexcarvalhoacoficial00@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alex-carvalho2005" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
 
-## 🛠️ Tecnologias e Ferramentas
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
