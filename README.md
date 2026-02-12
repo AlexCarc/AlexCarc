@@ -53,21 +53,7 @@ Este é o meu espaço onde passo a maior parte do tempo, transformando imaginaç
 
 ---
 
-## 🚀 Full-Stack Developer | GitHub Analytics
-
-<div align="center">
-
-  <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=AlexCarc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" 
-  />
-
-  <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCarc&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" 
-  />
-
-</div>
-
-<br>
+## 🚀 GitHub Analytics
 
 <div align="center">
 
