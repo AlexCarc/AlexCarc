@@ -74,7 +74,11 @@ Este é o meu espaço onde passo a maior parte do tempo, transformando imaginaç
 </div>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexCarc&theme=tokyonight" align-items="center" />
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexCarc&theme=tokyonight" 
+  />
+</div>
 
 
 
