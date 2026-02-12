@@ -53,11 +53,29 @@ Este é o meu espaço onde passo a maior parte do tempo, transformando imaginaç
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCarc&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCarc&layout=compact&langs_count=8&theme=tokyonight" />
+
+  <img 
+    height="190em" 
+    src="https://github-readme-stats.vercel.app/api?username=AlexCarc&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&border_radius=12&icon_color=ff2e63&title_color=ff2e63&text_color=ffffff" 
+  />
+
+  <img 
+    height="190em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCarc&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=12&title_color=ff2e63&text_color=ffffff" 
+  />
+
 </div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=AlexCarc&theme=radical&hide_border=true&border_radius=12" />
+
+</div>
+
 
 ---
