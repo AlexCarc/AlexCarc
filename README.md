@@ -74,12 +74,8 @@ Este é o meu espaço onde passo a maior parte do tempo, transformando imaginaç
 </div>
 
 
-<div align="center">
-  <img 
-  height="200em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCarc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=30" 
-  />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexCarc&theme=tokyonight" />
+
 
 
 ---
