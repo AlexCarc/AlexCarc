@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Alex Carvalho, tenho 20 anos e sou natural de São Paulo. Tenho formação em Técnico de Informática para Internet e Tecnólogo em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, compartilho meu conhecimento e minha trajetória como Dev como professor de programação Full-Stack a mais de 4 anos, onde ensino a criar projetos web.
+Me chamo Alex Carvalho, tenho 20 anos e sou natural de São Paulo. Tenho formação em Técnico de Informática para Internet e Tecnólogo em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, compartilho meu conhecimento e minha trajetória de Dev como professor de programação Full-Stack a mais de 4 anos, onde ensino a criar projetos web.
 
 <p align="left">
   <a href="https://github.com/AlexCarc?tab=repositories&sort=stargazers">
@@ -54,14 +54,7 @@ Me chamo Alex Carvalho, tenho 20 anos e sou natural de São Paulo. Tenho formaç
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=AlexCarc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCarc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexCarc&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCarc&layout=compact&theme=tokyonight)
