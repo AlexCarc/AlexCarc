@@ -1,60 +1,104 @@
-# 👨‍💻 Alex Carvalho
+<div align="center">
 
-**`Desenvolvedor Full-Stack`**
+# 👋 Olá, eu sou Alex Carvalho
 
-Me chamo Alex Carvalho, tenho 20 anos e sou natural de São Paulo. Tenho formação em Técnico de Informática para Internet e Tecnólogo em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, compartilho meu conhecimento e minha trajetória de Dev como professor de programação Full-Stack a mais de 4 anos, onde ensino a criar projetos web.
+### 💻 Desenvolvedor Full-Stack | 👨‍🏫 Professor de Tecnologia
 
-<p align="left">
-  <a href="https://github.com/AlexCarc?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AlexCarc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/AlexCarc?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AlexCarc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://github.com/AlexCarc">
+    <img src="https://img.shields.io/github/followers/AlexCarc?label=Seguidores&logo=github&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/AlexCarc">
+    <img src="https://img.shields.io/github/stars/AlexCarc?affiliations=OWNER&style=for-the-badge" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=AlexCarc&style=for-the-badge&color=blue" />
+
 </p>
 
-<hr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3BA4F2&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full-Stack;Professor+de+Tecnologia;JavaScript+•+Node.js+•+React;Sempre+aprendendo+novas+tecnologias..." />
 
-### 🤖 Linguagens e Tecnologias
+</div>
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+---
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+# 👨‍💻 Sobre mim
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+Olá! Me chamo **Alex Carvalho**, tenho **21 anos** e sou apaixonado por tecnologia.
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+Sou formado como **Técnico em Informática para Internet**, Tecnólogo em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Engenharia de Software**.
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+Atuo há mais de **4 anos como Professor de Tecnologia**, ensinando Desenvolvimento Full-Stack, Informática, Inteligência Artificial, Design Gráfico e Análise de Dados.
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+Meu objetivo é desenvolver aplicações modernas, escaláveis e intuitivas, sempre aplicando boas práticas de desenvolvimento e arquitetura de software.
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+---
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-          
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+# 🚀 Atualmente
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
+- 💼 Professor de Tecnologia
+- 💻 Desenvolvedor Full-Stack
+- 🎓 Estudando Engenharia de Software
+- 📚 Aprimorando React, Node.js, Docker e TypeScript
+- 🚀 Construindo novos projetos para meu portfólio
+- 🌱 Aprendendo novas tecnologias diariamente
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+---
 
-<br>
-<br>
+# 🛠 Tecnologias
 
-### 📊 Estatísticas
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,postgres,mysql,prisma,docker,git,github,vscode,figma,php" />
+
+</p>
+
+---
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexCarc&show_icons=true&theme=tokyonight)
+# 🔥 Sequência de Contribuições
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCarc&layout=compact&theme=tokyonight)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AlexCarc&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Gráfico de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexCarc&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="mailto:alexcarvalhoacoficial00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alex-carvalho2005/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AlexCarc">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Obrigado por visitar meu perfil!
+
+</div>
